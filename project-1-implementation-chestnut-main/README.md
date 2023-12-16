@@ -22,7 +22,7 @@ In the ever-evolving landscape of the music industry, our project delves into th
 
 ### System Architecture Diagram implemeted for this project
 
-![bu](/ArchitectureDiagram.png)
+![bu](./ArchitectureDiagram.png)
 
 ### Data Sources
 - Reddit API, Spotify API
