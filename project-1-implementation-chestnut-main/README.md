@@ -111,7 +111,7 @@ else
 
      xdg-open http://localhost:7420
 
-<img src="/Faktory.gif" alt="Demo GIF" width="900"/>
+<img src="./Faktory.gif" alt="Demo GIF" width="900"/>
      
 
 <code> To call spotify APIs and save into the database </code>
