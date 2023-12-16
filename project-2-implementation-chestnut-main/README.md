@@ -1,6 +1,6 @@
 # Social Media Data Science Pipeline (CS 515)
 
-![bu](/img/bulogo.png)
+![bu](./img/bulogo.png)
 
 ## Project-2 Implementation
 > Investigating The Foremost Factors Determining Artists’ Success
