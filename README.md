@@ -2,7 +2,7 @@
 
 
 
-[![BULOGO](https://github.com/hb0313/Data-Science-Pipeline-2022/blob/main/project-1-implementation-the_gladiators/.img/bulogo.png)]()
+[![BULOGO](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-1-implementation-chestnut-main/bulogo.png)]()
 
 
 The course's concentration is on using data science techniques to study substantial social media. Predictive, real-time analytics, exploratory analysis, measurement techniques, statistical modeling, and large-scale data collection, cleaning, and management are examples of the topics addressed.
