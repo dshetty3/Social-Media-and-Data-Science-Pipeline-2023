@@ -96,16 +96,16 @@ In order to execute the code follow the below steps:
     source /home/dshetty3/project-1-implementation-chestnut/socialMediaProject1/bin/activate
     foreman start
     reddit.py will run and data will start to collect. You will now be able to see the data getting retrived in 5 sec interval in MongoDB Compass.
-3. For Web API : Run the command
+5. For Web API : Run the command
     python3 app.py
     Application will load on [http://127.0.0.1:5000/dashboard](http://127.0.0.1:5000/dashboard). 
-4. Dashboard has sidbar which has a dashboard: 2 research questions along with Predictive Analysis
+6. Dashboard has sidbar which has a dashboard: 2 research questions along with Predictive Analysis
 
 
  
 <img src="./img/GIF1.gif" alt="Demo GIF" width="900"/>
 
-5. One and Two Analysis showing Variable Parameter - Artists list change on a daily basis.
+7. One and Two Analysis showing Variable Parameter - Artists list change on a daily basis.
 
 <img src="./img/GIF.gif" alt="Demo GIF" width="900"/>
 
