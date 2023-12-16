@@ -1,7 +1,7 @@
 # Social Media Data Science Pipeline (CS 515-01)
-![Banner](/img/download.jpeg) 
+![Banner](./img/download.jpeg) 
 
-![bu](/img/bulogo.png)
+![bu](./img/bulogo.png)
 
 ## Project-3 Implementation
 
@@ -71,7 +71,7 @@ In addtion to that we have also developed a Web UI, to displat our results and f
 
 
 ### API Sources
-![bu](/img/images.jpeg) ![bu](/img/reddit.webp) ![bu](/img/mhs.png)
+![bu](./img/images.jpeg) ![bu](./img/reddit.webp) ![bu](./img/mhs.png)
 
 ## How to run the project?
 
@@ -103,11 +103,11 @@ In order to execute the code follow the below steps:
 
 
  
-<img src="/img/GIF1.gif" alt="Demo GIF" width="900"/>
+<img src="./img/GIF1.gif" alt="Demo GIF" width="900"/>
 
 5. One and Two Analysis showing Variable Parameter - Artists list change on a daily basis.
 
-<img src="/img/GIF.gif" alt="Demo GIF" width="900"/>
+<img src="./img/GIF.gif" alt="Demo GIF" width="900"/>
 
 
 
