@@ -13,9 +13,9 @@ The focus of the course lies in applying data science methodologies to examine s
 
 | Phase | Description |
 | ------ | ------ |
-| [Phase 1](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-1-implementation-chestnut-main/Project%20-1-Report.pdf) | Data Collection and Storage |
-| [Phase 2](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-2-implementation-chestnut-main/Project-2-Report.pdf) | Cleaning and Analyzing data |
-| [Phase 3](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-3-implementation-chestnut-main/Project-3-Report.pdf) | Generating statistical models and analyzing trends |
+| [Project 1](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-1-implementation-chestnut-main/Project%20-1-Report.pdf) | Data Collection and Storage |
+| [Project 2](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-2-implementation-chestnut-main/Project-2-Report.pdf) | Cleaning and Analyzing data |
+| [Project 3](https://github.com/dshetty3/Social-Media-and-Data-Science-Pipeline-2023/blob/main/project-3-implementation-chestnut-main/Project-3-Report.pdf) | Generating statistical models and answering Research Questions |
 
 
 ## Contributors
