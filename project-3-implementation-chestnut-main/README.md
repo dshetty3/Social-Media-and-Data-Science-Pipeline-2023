@@ -16,7 +16,6 @@
 ### Documentation
 - Disha Shetty (dshetty3@binghamton.edu)
 - Om Fale (ofale1@binghamton.edu)
-- Harshitha Gururaj (hgurura1@binghamton.edu)
 
 ### Introduction
 
